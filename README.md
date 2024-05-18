@@ -8,4 +8,3 @@ you simply clone this project in to your local drive and open it on VS code, the
 open a terminal for backend then  run   npm install (if there any problem the check and install depanadancies accordingly)
 open a terminal for frontend then  run  npm i create-react-app (if there any problem the check and install depanadancies accordingly)
 
-[ MAKE SURE TO CHENAGE THE VALUE OF .env FILE IN THE backend FOLDER TO THE VALUE OF YOUR PROT AND  MONGODB  URI ]
